@@ -24,6 +24,7 @@ Users should be able to:
 
 ### Screenshot
 <img src="./src/assets/screenshot.png"/>
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
